@@ -82,17 +82,17 @@
                 |     ｜   ｜                                               |
                 |     ｜   ｜                                               |
                 |     ｜   ｜                                               |
-                |     ｜   ｜－－－|－－－－－－|－－－－－－                  |
-                |     ｜   ｜　|－－－|     |－－－|                         |
-                |     ｜   ｜　|  　 ｜    ｜  　 ｜　　　                   |
-                |          ｜　|－－－|　   |－－－|                         |
+                |     ｜   ｜－－－|－－－－－－|－－－－－－                   |
+                |     ｜   ｜　|－－－|     |－－－|                          |
+                |     ｜   ｜　|  　 ｜    ｜  　 ｜　　　                    |
+                |          ｜　|－－－|　   |－－－|                          |
                 |                                                          |
                 |   This Safe!                                             |
                 |      安全！                                               |
                 |     ｜   ｜                                               |
                 |     ｜ other sensor 其他传感器                             |
                 |     ｜   ｜                                               |
-                |     ｜   ｜－－－|－－－－－－|－－－－－－                  |
+                |     ｜   ｜－－－|－－－－－－|－－－－－－                   |
                 |     ｜   ｜　|－－－|                                      |
                 |     ｜   ｜　|  　 ｜    　　　                            |
                 |          ｜　|－－－|                                     |
@@ -110,13 +110,13 @@
                 |                                                           |
                 |                                      This Safe!           |
                 |    　                                   安全！             |
-                |          　　　　　　　　　　　　　　　　|   |      　　     |
-                |                                       | 　|               |
-                |                                       |　 |               |
-                |          －－－|－－－－－－|－－－－－－|   |               |
-                |          　            |－－－|        |   |               |
-                |                        |     |        |   |               |
-                |          　            |－－－|        |           　      |
+                |          　　　　　　　　　　　　　　　　|   |        　　     |
+                |                                      | 　|                |
+                |                                      |　 |                |
+                |          －－－|－－－－－－|－－－－－－|   |                |
+                |          　            |－－－|       |   |                |
+                |                        |     |       |   |                |
+                |          　            |－－－|       |            　      |
                 |___________________________________________________________|     
                 
                    重点在工程模型,数据的快速调用,图纸的调用
@@ -197,28 +197,28 @@
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 
                 |－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－|
-                |   This Dangerous!                                                            |
-                |      危险的！                                                                 |
-                |     ｜   ｜                                                                   |
-                |     ｜   ｜    ar programm unstabitily,but                                    |
-                |     ｜   ｜   ui? is stabitily,is not me write this programm                  |
-                |     ｜   ｜－－－－－－|－－－－－－－－－－－－－－|－－－－－－　　　　　　       |                 
-                |     ｜   ｜　|－－－－－－－－－－|     |－－－－－－－－－－－|                  |            
-                |     ｜   ｜　|> or _            |     |>_                  |                  |
-                |     ｜   ｜　|3D world programm |     |>EX.PATH:video game |                  |
-                |     ｜   ｜　|   left glasses   |     |> Right glasses     |                  |
-                |     ｜   ｜  |－－－－－－－－－－|     |－－－－－－－－－－－|                  |        
-                |     ｜   ｜                                                                   |
-                |     ｜   ｜                                                                   |
-                |     ｜  other sensor 其他传感器      　                                        |
-                |     ｜   ｜ explore and layers 　　　　one file 一个文件,树状图,图层            |
-                |         export model 导出模型                                                 |
-                |               ex.USB ex.image or video                                       | 
-                |                                                                              |
-                |               EX.Example Genetic Engineering Some special word               |
-                |               EX.例如基因工程,一些特殊词汇                                     |
-                |          ex.past times use search to change image and video                  |                  
-                |        ex.now use game mouse to change image and ar 3D world and video       |
+                |   This Dangerous!                                                        |
+                |      危险的！                                                             |
+                |     ｜   ｜                                                              |
+                |     ｜   ｜    ar programm unstabitily,but                               |
+                |     ｜   ｜   ui? is stabitily,is not me write this programm             |
+                |     ｜   ｜－－－－－－|－－－－－－－－－－－－－－|－－－－－－　              |                 
+                |     ｜   ｜　|－－－－－－－－－－|     |－－－－－－－－－－－|                |            
+                |     ｜   ｜　|> or _           |     |>_                 |                |
+                |     ｜   ｜　|3D world programm|     |>EX.PATH:video game|                |
+                |     ｜   ｜　|   left glasses  |     |> Right glasses    |                |
+                |     ｜   ｜  |－－－－－－－－－－|     |－－－－－－－－－－－|                |        
+                |     ｜   ｜                                                               |
+                |     ｜   ｜                                                               |
+                |     ｜  other sensor 其他传感器      　                                    |
+                |     ｜   ｜ explore and layers 　　　　one file 一个文件,树状图,图层         |
+                |         export model 导出模型                                             |
+                |               ex.USB ex.image or video                                   | 
+                |                                                                          |
+                |               EX.Example Genetic Engineering Some special word           |
+                |               EX.例如基因工程,一些特殊词汇                                  |
+                |          ex.past times use search to change image and video              |                  
+                |        ex.now use game mouse to change image and ar 3D world and video   |
                 |－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－|
                 
 future:
